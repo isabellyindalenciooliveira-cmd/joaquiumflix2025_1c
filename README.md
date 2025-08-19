@@ -1,2 +1,2 @@
-# joaquiumflix2025_1c
+# joaquimflix2025_1c
 site desenvolvido nas aulas de pensamento computacional
